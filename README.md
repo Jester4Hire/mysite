@@ -2,7 +2,7 @@
 
 ## **_A Personal Blog_**
 
-##### This blog was made from the following templates:
+##### This blog was made using the base code templates from the following sites:
 
 ##### https://djangocentral.com/building-a-blog-application-with-django/
 
